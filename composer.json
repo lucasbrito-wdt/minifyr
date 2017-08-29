@@ -4,8 +4,10 @@
   "type": "library",
   "license": "2.0.0",
   "authors": [
-    "name": "Web Design Technologies",
-    "email": "webdesgintechnologies@outlook.com.br"
+    {
+      "name": "Web Design Technologies",
+      "email": "webdesgintechnologies@outlook.com.br"
+    }
   ],
   "require": {
     "php": "^5.3.3 || ^7.0"
