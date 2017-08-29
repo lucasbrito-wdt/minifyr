@@ -34,7 +34,7 @@ require_once('src/minifyr.php');
 
 // Obter configurações e arquivos para minificar
 // As opções são:
-//   f			- Requeridos. Lista de arquivos separados por vírgulas ou vírgulas
+//   f      - Requeridos. Lista de arquivos separados por vírgulas ou vírgulas
 //	 screen	- Opcional. Vazio. Força o download do arquivo minificado.
 // 	 debug	- Opcional. Vazio. Quando administrado, ignore a minificação.
 // 
