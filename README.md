@@ -5,9 +5,11 @@ Se você estiver interessado em economizar largura de banda, reduza o tempo de c
 
 ## Como usar
 
-Fork (ou baixar) este projeto;
+Para instalar:
 
-Copie e cole o arquivo "minifyr.php" em qualquer pasta do seu projeto. Esta é a classe.
+```bash
+composer require luquinhasbrito/minifyr
+```
 
 Por exemplo:
 
