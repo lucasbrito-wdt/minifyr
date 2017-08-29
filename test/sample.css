@@ -1,0 +1,13 @@
+/*
+ * THIS IS A SAMPLE CSS FILE
+ */
+
+ @charset "UTF-8";
+
+ html {
+   font-family: Verdana, Geneva, Tahoma, sans-serif; 
+ }
+
+ body {
+   color: blue;
+ }
