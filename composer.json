@@ -3,10 +3,10 @@
   "description": "Minifica e agrupa scripts CSS ou JS. Se você estiver interessado em economizar largura de banda, reduza o tempo de carregamento e acelerar seu site ou aplicativo da web, então, o Minifier é bom para você.",
   "type": "library",
   "license": "2.0.0",
-  "authors": {
+  "authors": [
     "name": "Web Design Technologies",
     "email": "webdesgintechnologies@outlook.com.br"
-  },
+  ],
   "require": {
     "php": "^5.3.3 || ^7.0"
   },
